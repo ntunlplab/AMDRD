@@ -7,7 +7,7 @@ boundary_extraction/: Contains code for ADU tagging and boundary extraction.
 
 relation_identification/: Contains code for ADU relation identification.
 
-data/: Holds publicly available datasets from other research teams used in this study.
+data/: Please download the LREC_dataset and place it in this folder
 
 ## Requirements
 Make sure you have the following dependencies installed:
