@@ -2,13 +2,13 @@
 This repository contains the source code and necessary instructions for the AMDRD model, which focuses on the extraction of discourse relations within a document.
 
 # Folder Structure
-src/: Contains the main source code.
 
 boundary_extraction/: Contains code for ADU tagging and boundary extraction.
+
 relation_identification/: Contains code for ADU relation identification.
+
 data/: Holds publicly available datasets from other research teams used in this study.
 
-LREC_dataset/: Dataset used for training the argument structure extraction model.
 ## Requirements
 Make sure you have the following dependencies installed:
 
